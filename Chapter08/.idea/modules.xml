@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Chapter08.iml" filepath="$PROJECT_DIR$/.idea/Chapter08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/H01/H01.iml" filepath="$PROJECT_DIR$/H01/H01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/H02/H02.iml" filepath="$PROJECT_DIR$/H02/H02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/H03/H03.iml" filepath="$PROJECT_DIR$/H03/H03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/H04/H04.iml" filepath="$PROJECT_DIR$/H04/H04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello/Hello.iml" filepath="$PROJECT_DIR$/Hello/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HouseRentSysNew/HouseRentSysNew.iml" filepath="$PROJECT_DIR$/HouseRentSysNew/HouseRentSysNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RentHouseSys/RentHouseSys.iml" filepath="$PROJECT_DIR$/RentHouseSys/RentHouseSys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test100/Test100.iml" filepath="$PROJECT_DIR$/Test100/Test100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testcase/testcase.iml" filepath="$PROJECT_DIR$/testcase/testcase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/零钱通/零钱通.iml" filepath="$PROJECT_DIR$/零钱通/零钱通.iml" />
+    </modules>
+  </component>
+</project>
